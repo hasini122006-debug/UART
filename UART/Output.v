@@ -1,0 +1,12 @@
+Time=0   Start=0 Data=10101010 TX=1 Busy=0
+Time=20  Start=1 Data=10101010 TX=1 Busy=1
+Time=25  Start=1 Data=10101010 TX=0 Busy=1
+Time=35  Start=0 Data=10101010 TX=0 Busy=1
+Time=45  Start=0 Data=10101010 TX=1 Busy=1
+Time=55  Start=0 Data=10101010 TX=0 Busy=1
+Time=65  Start=0 Data=10101010 TX=1 Busy=1
+Time=75  Start=0 Data=10101010 TX=0 Busy=1
+Time=85  Start=0 Data=10101010 TX=1 Busy=1
+Time=95  Start=0 Data=10101010 TX=0 Busy=1
+Time=105 Start=0 Data=10101010 TX=1 Busy=1
+Time=115 Start=0 Data=10101010 TX=1 Busy=0
